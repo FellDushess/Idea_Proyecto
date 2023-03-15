@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+    margin: 20;
+    border: 10;
+    border-style: dotted;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 220;
+    border-style: dashed;
+    margin-bottom: auto;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-style: dashed;
+    font-size: 20;
+}
+
+ol{
+    font-size: 20;
+    border-style: dashed;
+}
